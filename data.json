@@ -1,93 +1,55 @@
 {
-  "source": "GotSport user-exported XLSX, Oct 25 2026; standings public-page snapshot",
   "eventId": "56299",
-  "divisionId": "517258",
-  "teamId": "4246442",
-  "primaryTeam": "Novi Parks SC U11 Girls Lightning Blue",
-  "teams": [
+  "source": "User-supplied GotSport spreadsheet exports, October 25, 2026; static snapshots",
+  "divisions": [
     {
-      "name": "Novi Parks SC U11 Girls Lightning Blue",
-      "rank": 7,
-      "w": 3,
-      "l": 4,
-      "t": 0
+      "name": "U11 Girls Select Div 2 (9v9)",
+      "age": "U11",
+      "gender": "Girls",
+      "id": "517258",
+      "teams": [
+        "Holly Alliance AYSO 2015",
+        "Huron S.A. Lady Chiefs U11",
+        "Legends FC Thunder Select G16",
+        "Michigan Tigers FC U11 Girls White",
+        "Novi Parks SC U11 Girls Lightning Blue",
+        "Pinckney Pirates Soccer Club U11",
+        "Plymouth City Stars U11",
+        "Plymouth City United U11",
+        "Saline FC 2015/16 Girls Gold"
+      ]
     },
     {
-      "name": "Plymouth City United U11",
-      "rank": 1,
-      "w": 8,
-      "l": 0,
-      "t": 0
+      "name": "U11 Girls Select Div 1 (9v9)",
+      "age": "U11",
+      "gender": "Girls",
+      "id": null,
+      "teams": [
+        "Detroit City FC Downriver 15/16G Rouge",
+        "Lenawee United FC Girls U11 Select Black",
+        "Liverpool FC-IA Michigan Ann Arbor G 2015/16 Red",
+        "Michigan Tigers FC U11 Girls Blue",
+        "Northville FC ENVY U11G",
+        "Novi Parks SC U11 Girls Lightning Gold",
+        "Plymouth City Volcanoes U11"
+      ]
     },
     {
-      "name": "Huron S.A. Lady Chiefs U11",
-      "rank": 2,
-      "w": 5,
-      "l": 2,
-      "t": 1
-    },
-    {
-      "name": "Saline FC 2015/16 Girls Gold",
-      "rank": 3,
-      "w": 4,
-      "l": 2,
-      "t": 1
-    },
-    {
-      "name": "Legends FC Thunder Select G16",
-      "rank": 4,
-      "w": 4,
-      "l": 1,
-      "t": 0
-    },
-    {
-      "name": "Plymouth City Stars U11",
-      "rank": 5,
-      "w": 4,
-      "l": 1,
-      "t": 0
-    },
-    {
-      "name": "Liverpool FC-IA Michigan Hartland 2015/16 G White",
-      "rank": 6,
-      "w": 3,
-      "l": 2,
-      "t": 1
-    },
-    {
-      "name": "Chaos Soccer U11 Girls Red",
-      "rank": 8,
-      "w": 2,
-      "l": 3,
-      "t": 1
-    },
-    {
-      "name": "Pinckney Pirates Soccer Club U11",
-      "rank": 9,
-      "w": 1,
-      "l": 4,
-      "t": 1
-    },
-    {
-      "name": "Holly Alliance AYSO 2015",
-      "rank": 10,
-      "w": 1,
-      "l": 5,
-      "t": 1
-    },
-    {
-      "name": "Michigan Tigers FC U11 Girls White",
-      "rank": 11,
-      "w": 1,
-      "l": 6,
-      "t": 0
-    },
-    {
-      "name": "Milan Youth Soccer Club Storm U11G Black",
-      "rank": 12,
-      "w": 0,
-      "l": 6,
-      "t": 0
+      "name": "U12 Girls Select Div 2 (9v9)",
+      "age": "U12",
+      "gender": "Girls",
+      "id": null,
+      "teams": [
+        "Chelsea SC U12 Girls White",
+        "Detroit City FC Downriver 14/15G Gold",
+        "Liverpool FC-IA Michigan Ann Arbor G 2014/15 Red",
+        "Michigan Jaguars ANN ARBOR U12 GIRLS GREEN",
+        "Michigan Tigers FC U12 Girls Blue",
+        "Northville FC ENVY U12G White",
+        "Novi Parks SC U12 Girls Lightning Blue",
+        "Plymouth Soccer Club Reign G2014/15 Black",
+        "Saline FC 2014/15 Girls Gold"
+      ]
     }
   ],
   "games": [
@@ -186,6 +148,289 @@
       "location": "Legacy Center - Field #8 North",
       "division": "U11 Girls Select Div 2 (9v9)",
       "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1075",
+      "date": "2026-09-12",
+      "time": "13:30 EDT",
+      "home": "Plymouth City Volcanoes U11",
+      "away": "Novi Parks SC U11 Girls Lightning Gold",
+      "homeScore": 0,
+      "awayScore": 5,
+      "location": "TDM Plant - A - 9v9",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1074",
+      "date": "2026-09-13",
+      "time": "17:30 EDT",
+      "home": "Novi Parks SC U11 Girls Lightning Gold",
+      "away": "Liverpool FC-IA Michigan Ann Arbor G 2015/16 Red",
+      "homeScore": 10,
+      "awayScore": 0,
+      "location": "Bosco Fields - 5",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1092",
+      "date": "2026-09-26",
+      "time": "14:30 EDT",
+      "home": "Liverpool FC-IA Michigan Ann Arbor G 2015/16 Red",
+      "away": "Novi Parks SC U11 Girls Lightning Gold",
+      "homeScore": 0,
+      "awayScore": 11,
+      "location": "Rolling Hills - 9v9",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1081",
+      "date": "2026-10-03",
+      "time": "11:30 EDT",
+      "home": "Novi Parks SC U11 Girls Lightning Gold",
+      "away": "Michigan Tigers FC U11 Girls Blue",
+      "homeScore": 1,
+      "awayScore": 2,
+      "location": "Bosco Fields - 5",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1088",
+      "date": "2026-10-08",
+      "time": "18:00 EDT",
+      "home": "Novi Parks SC U11 Girls Lightning Gold",
+      "away": "Northville FC ENVY U11G",
+      "homeScore": 6,
+      "awayScore": 0,
+      "location": "Bosco Fields - 5",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1086",
+      "date": "2026-10-24",
+      "time": "12:00 EDT",
+      "home": "Detroit City FC Downriver 15/16G Rouge",
+      "away": "Novi Parks SC U11 Girls Lightning Gold",
+      "homeScore": 0,
+      "awayScore": 3,
+      "location": "Taylor Heritage Park - Field 1",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": ""
+    },
+    {
+      "id": "1093",
+      "date": "2026-10-31",
+      "time": "10:00 EDT",
+      "home": "Novi Parks SC U11 Girls Lightning Gold",
+      "away": "Plymouth City Volcanoes U11",
+      "homeScore": null,
+      "awayScore": null,
+      "location": "Bosco Fields - 5",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1070",
+      "date": "2026-11-07",
+      "time": "14:00 EST",
+      "home": "Lenawee United FC Girls U11 Select Black",
+      "away": "Novi Parks SC U11 Girls Lightning Gold",
+      "homeScore": null,
+      "awayScore": null,
+      "location": "Heritage Park - 9v9 Field",
+      "division": "U11 Girls Select Div 1 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1024",
+      "date": "2026-09-12",
+      "time": "11:30 EDT",
+      "home": "Novi Parks SC U12 Girls Lightning Blue",
+      "away": "Michigan Tigers FC U12 Girls Blue",
+      "homeScore": 3,
+      "awayScore": 3,
+      "location": "Bosco Fields - 5",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1051",
+      "date": "2026-09-17",
+      "time": "18:30 EDT",
+      "home": "Novi Parks SC U12 Girls Lightning Blue",
+      "away": "Plymouth Soccer Club Reign G2014/15 Black",
+      "homeScore": 1,
+      "awayScore": 0,
+      "location": "Bosco Fields - 5",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1039",
+      "date": "2026-10-01",
+      "time": "18:00 EDT",
+      "home": "Northville FC ENVY U12G White",
+      "away": "Novi Parks SC U12 Girls Lightning Blue",
+      "homeScore": 1,
+      "awayScore": 2,
+      "location": "Northville Community Park - 9n",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1037",
+      "date": "2026-10-03",
+      "time": "13:00 EDT",
+      "home": "Novi Parks SC U12 Girls Lightning Blue",
+      "away": "Liverpool FC-IA Michigan Ann Arbor G 2014/15 Red",
+      "homeScore": 10,
+      "awayScore": 0,
+      "location": "Bosco Fields - 5",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1061",
+      "date": "2026-10-10",
+      "time": "11:30 EDT",
+      "home": "Saline FC 2014/15 Girls Gold",
+      "away": "Novi Parks SC U12 Girls Lightning Blue",
+      "homeScore": 3,
+      "awayScore": 4,
+      "location": "Sandra Richardson Park - 9 v 9 (U11/U12)",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1064",
+      "date": "2026-10-24",
+      "time": "11:30 EDT",
+      "home": "Novi Parks SC U12 Girls Lightning Blue",
+      "away": "Chelsea SC U12 Girls White",
+      "homeScore": 12,
+      "awayScore": 1,
+      "location": "Bosco Fields - 5",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1050",
+      "date": "2026-10-25",
+      "time": "13:30 EDT",
+      "home": "Detroit City FC Downriver 14/15G Gold",
+      "away": "Novi Parks SC U12 Girls Lightning Blue",
+      "homeScore": null,
+      "awayScore": null,
+      "location": "Taylor Heritage Park - Field 5",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Scheduled"
+    },
+    {
+      "id": "1028",
+      "date": "2026-11-01",
+      "time": "11:30 EST",
+      "home": "Michigan Jaguars ANN ARBOR U12 GIRLS GREEN",
+      "away": "Novi Parks SC U12 Girls Lightning Blue",
+      "homeScore": null,
+      "awayScore": null,
+      "location": "Fuller Park  - 9v9",
+      "division": "U12 Girls Select Div 2 (9v9)",
+      "sourceStatus": "Rescheduled"
     }
-  ]
+  ],
+  "verifiedStandings": {
+    "U11 Girls Select Div 2 (9v9)": [
+      {
+        "name": "Novi Parks SC U11 Girls Lightning Blue",
+        "rank": 7,
+        "w": 3,
+        "l": 4,
+        "t": 0
+      },
+      {
+        "name": "Plymouth City United U11",
+        "rank": 1,
+        "w": 8,
+        "l": 0,
+        "t": 0
+      },
+      {
+        "name": "Huron S.A. Lady Chiefs U11",
+        "rank": 2,
+        "w": 5,
+        "l": 2,
+        "t": 1
+      },
+      {
+        "name": "Saline FC 2015/16 Girls Gold",
+        "rank": 3,
+        "w": 4,
+        "l": 2,
+        "t": 1
+      },
+      {
+        "name": "Legends FC Thunder Select G16",
+        "rank": 4,
+        "w": 4,
+        "l": 1,
+        "t": 0
+      },
+      {
+        "name": "Plymouth City Stars U11",
+        "rank": 5,
+        "w": 4,
+        "l": 1,
+        "t": 0
+      },
+      {
+        "name": "Liverpool FC-IA Michigan Hartland 2015/16 G White",
+        "rank": 6,
+        "w": 3,
+        "l": 2,
+        "t": 1
+      },
+      {
+        "name": "Chaos Soccer U11 Girls Red",
+        "rank": 8,
+        "w": 2,
+        "l": 3,
+        "t": 1
+      },
+      {
+        "name": "Pinckney Pirates Soccer Club U11",
+        "rank": 9,
+        "w": 1,
+        "l": 4,
+        "t": 1
+      },
+      {
+        "name": "Holly Alliance AYSO 2015",
+        "rank": 10,
+        "w": 1,
+        "l": 5,
+        "t": 1
+      },
+      {
+        "name": "Michigan Tigers FC U11 Girls White",
+        "rank": 11,
+        "w": 1,
+        "l": 6,
+        "t": 0
+      },
+      {
+        "name": "Milan Youth Soccer Club Storm U11G Black",
+        "rank": 12,
+        "w": 0,
+        "l": 6,
+        "t": 0
+      }
+    ]
+  },
+  "teamIds": {
+    "Novi Parks SC U11 Girls Lightning Blue": "4246442"
+  }
 }
